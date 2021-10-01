@@ -1,1 +1,21 @@
-// Add Anything
+[
+    {
+        "id":1,
+        "subject":"maths",
+    },
+    {
+        "id":2,
+        "movie":"science",
+      
+    },
+
+{
+        "id":3,
+        "movie":"Marathi",
+       
+    },
+{
+        "id":5,
+        "movie":"English",
+    }
+]
